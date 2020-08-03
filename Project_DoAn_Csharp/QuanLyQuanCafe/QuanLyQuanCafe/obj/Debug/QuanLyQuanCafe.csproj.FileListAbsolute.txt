@@ -1,0 +1,13 @@
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Login.resources
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.TableManeger.resources
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.AccountProfile.resources
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Admin.resources
+C:\Users\minht\OneDrive\Máy tính\Csharp\Project_DoAn_Csharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
